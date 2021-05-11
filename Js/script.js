@@ -463,8 +463,8 @@ var PlayList = [
 		"link" : "file : Playlist/Tuan/100.Bai.Hat.Nhac.Viet.Nam.json"
 	},
 	{
-		"name" : "Hoa Ngu",
-		"link" : "file : Playlist/Type/top_100_Hoa-Ngu-playlist.json"
+		"name" : "Tuấn Vũ",
+		"link" : "file : Playlist/Tuan/Tuan.Vu-Collection-by-tuannvbg-playlist.json"
 	}
 ];
 

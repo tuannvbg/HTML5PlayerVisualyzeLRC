@@ -1,0 +1,59 @@
+{
+   "err":0,
+   "msg":"Success",
+   "data":{
+      "id":"ZW6CO0FA",
+      "name":"Liên Khúc Chuyện Tình Lan Và Điệp",
+      "title":"Liên Khúc Chuyện Tình Lan Và Điệp",
+      "code":"kHxmyZnsSuaJuVJTntbmknyLXbHpQpvCx",
+      "content_owner":7,
+      "isoffical":true,
+      "isWorldWide":false,
+      "playlist_id":"ZWZB7BCU",
+      "artists":[
+         {
+            "name":"Tuấn Vũ",
+            "link":"/nghe-si/tuan-vu"
+         }
+      ],
+      "artists_names":"Tuấn Vũ",
+      "performer":"Tuấn Vũ",
+      "type":"audio",
+      "link":"/bai-hat/lien-khuc-ngay-xua-anh-noi-Tuan-Vu/ZW6CO0FA.html#video-clip",
+      "lyric":"https://dl.dropboxusercontent.com/s/kop62xfsu8e5x5s/Tuan.Vu.-Lien.Khuc.Chuyen.Tinh.Lan.Va.Diep.lrc?dl=0",
+      "thumbnail":"https://dl.dropboxusercontent.com/s/2pn3efl9kpd7cfw/Tuan.Vu.Avatar.jpg",
+      "mv_link":"/video-clip/Khi-Phai-Quen-Di-Phan-Manh-Quynh/ZW6CO0FA.html",
+      "duration":324,
+      "source":{
+         "128":"https://dl.dropboxusercontent.com/s/t0scmjkzcm8k14z/Tuan.Vu.-Lien.Khuc.Chuyen.Tinh.Lan.Va.Diep.mp3?dl=0",
+         "320":""
+      },
+      "album":{
+         "id":"ZWZB7BCU",
+         "link":"/album/Mat-Hy-Vong-Phan-Manh-Quynh/ZWZB7BCU.html",
+         "title":"The Best Of Tuan Vu",
+         "name":"The Best Of Tuan Vu",
+         "isoffical":true,
+         "artists_names":"Tuấn Vũ",
+         "artists":[
+            {
+               "name":"Tuấn Vũ",
+               "link":"/nghe-si/Tuan-Vu"
+            }
+         ],
+         "thumbnail":"https://dl.dropboxusercontent.com/s/2pn3efl9kpd7cfw/Tuan.Vu.Avatar.jpg",
+         "thumbnail_medium":"https://dl.dropboxusercontent.com/s/2pn3efl9kpd7cfw/Tuan.Vu.Avatar.jpg"
+      },
+      "artist":{
+         "id":"IWZ98O7W",
+         "name":"Tuấn Vũ",
+         "link":"/nghe-si/Tuan-Vu",
+         "cover":"https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/4/b/4be7c7b89cc7db91e125d4e2e9cc3cd6_1511412554.jpgg",
+         "thumbnail":"https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/4/b/4be7c7b89cc7db91e125d4e2e9cc3cd6_1511412554.jpg"
+      },
+      "ads":true,
+      "is_vip":false,
+      "ip":"27.66.32.129"
+   },
+   "timestamp":1620551856251
+}

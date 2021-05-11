@@ -2,6 +2,7 @@
 
 Using P5js and dat.GUI
 * [Link Play](https://tuannvbg.github.io/HTML5PlayerVisualyzeLRC/)
+* [Link Play 2](https://tuannvbg.github.io/HTML5PlayerVisualyzeLRC/demo.html?theme=HauMaster&playlist=2&song=1&background=29/)
 * [Old Version](https://hoangtran0410.github.io/VisualyzeTest/)
 
 * [P5js Library](https://p5js.org/) and [Toturial from Daniel Shiffman](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)

@@ -7,7 +7,7 @@ Using P5js and dat.GUI
 * [P5js Library](https://p5js.org/) and [Toturial from Daniel Shiffman](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 * [dat.GUI toturial](https://workshop.chromeexperiments.com/examples/gui/#1--Basic-Usage)
 * Update 11-05-2021
-* Can play direct link from any host (example: dropbox.com, archive.org), demo: [Link Play]https://tuannvbg.github.io/HTML5PlayerVisualyzeLRC/demo.html?theme=HauMaster&playlist=2&song=1&background=29
+* Can play direct link from any host (example: dropbox.com, archive.org), demo: [Link Play].(https://tuannvbg.github.io/HTML5PlayerVisualyzeLRC/demo.html?theme=HauMaster&playlist=2&song=1&background=29)
 
 ## How to Play
 

@@ -459,7 +459,7 @@ function fftGraph(x, y, w, h, type){
 //=============  Playlist  ==================
 var PlayList = [
 	{
-		"name" : "Nhac tre Viet",
+		"name" : "Nhạc Trẻ Việt Nam Tuyển Chọn",
 		"link" : "file : Playlist/Tuan/100.Bai.Hat.Nhac.Viet.Nam.json"
 	},
 	{

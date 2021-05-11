@@ -1,0 +1,59 @@
+{
+   "err":0,
+   "msg":"Success",
+   "data":{
+      "id":"ZW9BCU0D",
+      "name":"Chạm Đáy Nỗi Đau",
+      "title":"Chạm Đáy Nỗi Đau",
+      "code":"LHJGtZGaxHigNcZyHybmZmyZXbGgZEhRz",
+      "content_owner":7,
+      "isoffical":true,
+      "isWorldWide":true,
+      "playlist_id":"ZOBF07DD",
+      "artists":[
+         {
+            "name":"ERIK",
+            "link":"/nghe-si/Cham-Day-Noi-Dau-ERIK"
+         }
+      ],
+      "artists_names":"ERIK",
+      "performer":"ERIK",
+      "type":"audio",
+      "link":"/bai-hat/Cham-Day-Noi-Dau-ERIK/ZW9BCU0D.html#video-clip",
+      "lyric":"https://static-zmp3.zadn.vn/lyrics/2/4/0/e/240e8cb772a4d7622654c9e2fbec54cb.lrc",
+      "thumbnail":"https://photo-resize-zmp3.zadn.vn/w94_r1x1_jpeg/cover/9/b/4/0/9b40a25f9a606520333fa79f1fdf5ea6.jpg?fs=MTYyMDYwODg5NDQ3OXx3ZWJWNHw0Mi4xMTQdUngMjM0LjEy",
+      "mv_link":"/video-clip/Cham-Day-Noi-Dau-ERIK/ZW9BCU0D.html",
+      "duration":293,
+      "source":{
+         "128":"http://localhost/media/nhac.tre/ERIK-Cham.Day.Noi.Dau.mp3",
+         "320":""
+      },
+      "album":{
+         "id":"ZOBF07DD",
+         "link":"/album/Cham-Day-Noi-Dau-Single-ERIK/ZOBF07DD.html",
+         "title":"Chạm Đáy Nỗi Đau (Single)",
+         "name":"Chạm Đáy Nỗi Đau (Single)",
+         "isoffical":true,
+         "artists_names":"ERIK",
+         "artists":[
+            {
+               "name":"ERIK",
+               "link":"/nghe-si/ERIK"
+            }
+         ],
+         "thumbnail":"https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/cover/9/b/4/0/9b40a25f9a606520333fa79f1fdf5ea6.jpg",
+         "thumbnail_medium":"https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/9/b/4/0/9b40a25f9a606520333fa79f1fdf5ea6.jpg"
+      },
+      "artist":{
+         "id":"IWZA6CIZ",
+         "name":"ERIK",
+         "link":"/nghe-si/ERIK",
+         "cover":"https://photo-zmp3.zadn.vn/cover_artist/4/0/a/9/40a932ce3c9aa9eebedb537aa6201b37.jpg",
+         "thumbnail":"https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/1/c/3/1/1c316ca8b1bc893664e10bc908258420.jpg"
+      },
+      "ads":true,
+      "is_vip":false,
+      "ip":"42.114.234.12"
+   },
+   "timestamp":1620610084219
+}

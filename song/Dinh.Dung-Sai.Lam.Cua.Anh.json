@@ -1,0 +1,59 @@
+{
+   "err":0,
+   "msg":"Success",
+   "data":{
+      "id":"ZW6CO0FA",
+      "name":"Sai Lầm Của Anh",
+      "title":"Sai Lầm Của Anh",
+      "code":"kHxmyZnsSuaJuVJTntbmknyLXbHpQpvCx",
+      "content_owner":7,
+      "isoffical":true,
+      "isWorldWide":false,
+      "playlist_id":"ZWZB7BCU",
+      "artists":[
+         {
+            "name":"Đình Dũng",
+            "link":"/nghe-si/Khi-Phai-Quen-Di-Phan-Manh-Quynh"
+         }
+      ],
+      "artists_names":"Đình Dũng",
+      "performer":"Đình Dũng",
+      "type":"audio",
+      "link":"/bai-hat/Khi-Phai-Quen-Di-Phan-Manh-Quynh/ZW6CO0FA.html#video-clip",
+      "lyric":"https://dl.dropboxusercontent.com/s/r3evpg942fojbof/Dinh.Dung-Sai.Lam.Cua.Anh.lrc?dl=0",
+      "thumbnail":"https://dl.dropboxusercontent.com/s/o821dzm5efu04vu/Dinh.Dung-Sai.Lam.Cua.Anh.Avatar.jpg?dl=0",
+      "mv_link":"/video-clip/Khi-Phai-Quen-Di-Phan-Manh-Quynh/ZW6CO0FA.html",
+      "duration":324,
+      "source":{
+         "128":"https://dl.dropboxusercontent.com/s/09if0qezbrues7v/Dinh.Dung-Sai.Lam.Cua.Anh.mp3?dl=0",
+         "320":""
+      },
+      "album":{
+         "id":"ZWZB7BCU",
+         "link":"/album/Mat-Hy-Vong-Phan-Manh-Quynh/ZWZB7BCU.html",
+         "title":"Mất Hy Vọng",
+         "name":"Mất Hy Vọng",
+         "isoffical":true,
+         "artists_names":"Đình Dũng",
+         "artists":[
+            {
+               "name":"Đình Dũng",
+               "link":"/nghe-si/Phan-Manh-Quynh"
+            }
+         ],
+         "thumbnail":"https://photo-resize-zmp3.zadn.vn/w165_r1x1_jpeg/covers/8/f/8f9ac22aae4792a46ef4e0660b60ea6f_1408345686.jpg",
+         "thumbnail_medium":"https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/covers/8/f/8f9ac22aae4792a46ef4e0660b60ea6f_1408345686.jpg"
+      },
+      "artist":{
+         "id":"IWZ98O7W",
+         "name":"Đình Dũng",
+         "link":"/nghe-si/Phan-Manh-Quynh",
+         "cover":"//static-zmp3.zadn.vn/skins/zmp3-v5.1/images/default2/1190x350.jpg",
+         "thumbnail":"https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/avatars/a/0/a/0/a0a00c4dabc67d8590b19684dcbcdf56.jpg"
+      },
+      "ads":true,
+      "is_vip":false,
+      "ip":"27.66.32.129"
+   },
+   "timestamp":1620551856251
+}

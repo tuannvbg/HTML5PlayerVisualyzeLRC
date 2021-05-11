@@ -46,7 +46,7 @@ While you turn on, all objects will have it own *boxcontain*
 * Design mode
 ![design](Screenshot/Screenshot_design.png)
 * Demo
-![Demo](Screenshot/demo.png)
+![Demo](Screenshot/demo.jpg)
 * Demo 2
 ![Demo 2](Screenshot/demo2.png)
 * Demo 3
